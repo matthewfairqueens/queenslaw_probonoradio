@@ -1,0 +1,18 @@
+name: "Queen's University Faculty of Law Pro Bono Radio"
+type: theme
+description: "A custom theme developed for the Queen's University Faculty of Law Pro Bono Radio website by Purely Interactive."
+core: 8.x
+base theme: queenslaw
+libraries:
+  - queenslaw_probonoradio/global
+regions:
+  superheader: Superheader
+  branding: Branding
+  header: Header
+  subheader: Subheader
+  supercontent: Supercontent
+  content: Content
+  subcontent: Subcontent
+  sidebar_first: Sidebar
+  superfooter: Superfooter
+  footer: Footer
